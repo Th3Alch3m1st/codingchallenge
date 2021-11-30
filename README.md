@@ -45,5 +45,5 @@ MVVM
 1. Get the error when compiling
 Gradle plugin requires Java 11 but IDE uses Java 1.8 ![required-java11](https://user-images.githubusercontent.com/35175271/144035750-16757d5e-2fa1-4e9a-8007-9ca0d8ba1239.png)
 
-One of a solution is going to Android Studio Preferences->Built, Execution, Deploymeny->Built Tools->Gradle-> Gradle Project and select Java 11 and try to compile again
+One of a solution is going to Android Studio Preferences->Built, Execution, Deployment->Build Tools->Gradle-> Gradle Project and select Java 11 and try to compile again
 ![select-java-11](https://user-images.githubusercontent.com/35175271/144036093-103e7a65-52cf-4e56-b39b-5d4fbfcda64a.png)
