@@ -34,7 +34,7 @@ MVVM
 - Different Grid span handled on orientation changes, In Potrait Mode 2 Grid item loaded and In Landscape mode 3 grid item loadded.
 
 ## Idea for improvement
-- For Tabloit a diffrent UI could be handled. For example, screen could be divided into three part to load three diffent fragment in a single UI state.
+- For Tab a diffrent UI could be handled. For example, screen could be divided into three part to load three diffent fragment in a single UI state.
 - Single Viewmodel and repository could be shared between all fragments, but it will break Single Responsibility and Interface Segregation rule, which may cause problems if applications need to be maintained in the long run.
 
 ## Build tools
